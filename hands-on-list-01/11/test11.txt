@@ -1,0 +1,4 @@
+Written from fd1
+Written from fd2 copy From fd1
+Written from fd3 copy from fd1
+Written from fd4 copy from fd1
