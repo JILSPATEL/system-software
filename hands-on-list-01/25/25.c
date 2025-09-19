@@ -39,13 +39,13 @@ int main() {
 
 /*
 =================================================================
-Output: jils@Inspiron-3593:/mnt/e/SS/hands-on-list-1/25$ cc 25.c
-		jils@Inspiron-3593:/mnt/e/SS/hands-on-list-1/25$ ./a.out
-		Child 1 (PID: 390) created
-		Parent PID: 389 waiting for Child 2 (PID: 391)
-		Child 2 (PID: 391) created
-		Child 3 (PID: 392) created
-		Child 2 (PID: 391) exited with status 0
-		jils@Inspiron-3593:/mnt/e/SS/hands-on-list-1/25$
+Output: jils@Inspiron-3593:/mnt/e/SS/hands-on-list-1$ cc 25.c
+        jils@Inspiron-3593:/mnt/e/SS/hands-on-list-1$ ./a.out
+        Child 1 (PID: 390) created
+        Child 2 (PID: 391) created
+        Parent PID: 389 waiting for Child 2 (PID: 391)
+        Child 3 (PID: 392) created
+        Child 2 (PID: 391) exited with status 0
+        jils@Inspiron-3593:/mnt/e/SS/hands-on-list-1$
 =================================================================
 */
