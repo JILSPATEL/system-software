@@ -25,7 +25,6 @@ int main(){
 	printf("Message %s\n",read_msg);
 	return 0;
 }
-
 /*
 =============================================================
 Output:	jils@Inspiron-3593:/mnt/e/ss/hands-on-list-2$ ./a.out
