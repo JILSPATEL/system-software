@@ -11,7 +11,6 @@ Description:Write a program to open a file, duplicate the file descriptor
 Date: 07 September 2025
 ==============================================================================
 */
-
 #include <fcntl.h>
 #include <unistd.h>
 #include <stdio.h>
