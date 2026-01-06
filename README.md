@@ -1,4 +1,4 @@
-# System Software Lab  
+# System Software Lab. 
 
 This repository contains lab exercises for **File and Process Management** and related concepts.  
 
